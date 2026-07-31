@@ -1,0 +1,186 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Soft Pinch Liquid Blush",
+      "brand": "Rare Beauty",
+      "category": "بلاشر",
+      "price": 89,
+      "oldPrice": 105,
+      "shade": "Hope / Joy / Happy",
+      "badge": "الأكثر مبيعًا",
+      "stock": 12
+    },
+    {
+      "id": 2,
+      "name": "Positive Light Highlighter",
+      "brand": "Rare Beauty",
+      "category": "هايلايتر",
+      "price": 109,
+      "oldPrice": 125,
+      "shade": "Exhilarate / Mesmerize",
+      "badge": "جديد",
+      "stock": 8
+    },
+    {
+      "id": 3,
+      "name": "Lip Glow Oil",
+      "brand": "Dior",
+      "category": "شفاه",
+      "price": 155,
+      "oldPrice": 175,
+      "shade": "Pink / Rosewood",
+      "badge": "الأكثر مبيعًا",
+      "stock": 10
+    },
+    {
+      "id": 4,
+      "name": "Backstage Rosy Glow Blush",
+      "brand": "Dior",
+      "category": "بلاشر",
+      "price": 169,
+      "oldPrice": 189,
+      "shade": "Pink / Coral",
+      "badge": "جديد",
+      "stock": 7
+    },
+    {
+      "id": 5,
+      "name": "Easy Bake Loose Powder",
+      "brand": "Huda Beauty",
+      "category": "بودرة",
+      "price": 139,
+      "oldPrice": 159,
+      "shade": "Pound Cake / Banana Bread",
+      "badge": "عرض",
+      "stock": 15
+    },
+    {
+      "id": 6,
+      "name": "FauxFilter Concealer",
+      "brand": "Huda Beauty",
+      "category": "كونسيلر",
+      "price": 119,
+      "oldPrice": 135,
+      "shade": "عدة درجات",
+      "badge": "",
+      "stock": 11
+    },
+    {
+      "id": 7,
+      "name": "Airbrush Flawless Setting Spray",
+      "brand": "Charlotte Tilbury",
+      "category": "مثبت",
+      "price": 149,
+      "oldPrice": 169,
+      "shade": "100 ml",
+      "badge": "الأكثر مبيعًا",
+      "stock": 9
+    },
+    {
+      "id": 8,
+      "name": "Hollywood Flawless Filter",
+      "brand": "Charlotte Tilbury",
+      "category": "هايلايتر",
+      "price": 179,
+      "oldPrice": 199,
+      "shade": "عدة درجات",
+      "badge": "جديد",
+      "stock": 6
+    },
+    {
+      "id": 9,
+      "name": "Gloss Bomb",
+      "brand": "Fenty Beauty",
+      "category": "شفاه",
+      "price": 99,
+      "oldPrice": 115,
+      "shade": "Fenty Glow",
+      "badge": "",
+      "stock": 14
+    },
+    {
+      "id": 10,
+      "name": "Pro Filt'r Foundation",
+      "brand": "Fenty Beauty",
+      "category": "فاونديشن",
+      "price": 159,
+      "oldPrice": 179,
+      "shade": "عدة درجات",
+      "badge": "عرض",
+      "stock": 10
+    },
+    {
+      "id": 11,
+      "name": "Radiant Creamy Concealer",
+      "brand": "NARS",
+      "category": "كونسيلر",
+      "price": 129,
+      "oldPrice": 145,
+      "shade": "عدة درجات",
+      "badge": "",
+      "stock": 13
+    },
+    {
+      "id": 12,
+      "name": "Orgasm Blush",
+      "brand": "NARS",
+      "category": "بلاشر",
+      "price": 145,
+      "oldPrice": 165,
+      "shade": "Orgasm",
+      "badge": "الأكثر مبيعًا",
+      "stock": 8
+    },
+    {
+      "id": 13,
+      "name": "Lip Pencil",
+      "brand": "MAC Cosmetics",
+      "category": "شفاه",
+      "price": 79,
+      "oldPrice": 89,
+      "shade": "Spice / Whirl / Soar",
+      "badge": "",
+      "stock": 18
+    },
+    {
+      "id": 14,
+      "name": "Fix+ Setting Spray",
+      "brand": "MAC Cosmetics",
+      "category": "مثبت",
+      "price": 109,
+      "oldPrice": 125,
+      "shade": "Original",
+      "badge": "جديد",
+      "stock": 12
+    },
+    {
+      "id": 15,
+      "name": "Loveshine Lipstick",
+      "brand": "YSL Beauty",
+      "category": "شفاه",
+      "price": 159,
+      "oldPrice": 179,
+      "shade": "عدة درجات",
+      "badge": "جديد",
+      "stock": 7
+    },
+    {
+      "id": 16,
+      "name": "Touche Éclat Concealer",
+      "brand": "YSL Beauty",
+      "category": "كونسيلر",
+      "price": 179,
+      "oldPrice": 199,
+      "shade": "عدة درجات",
+      "badge": "",
+      "stock": 5
+    }
+  ],
+  "settings": {
+    "whatsapp": "972500000000",
+    "announcement": "توصيل لجميع المناطق | تأكيد الطلب عبر واتساب",
+    "heroTitle": "Luxury Beauty, Curated for You",
+    "heroText": "اكتشفي أشهر منتجات المكياج من البراندات العالمية المختارة بعناية."
+  }
+}
